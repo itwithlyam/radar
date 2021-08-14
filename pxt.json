@@ -4,7 +4,9 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "servo": "*",
+        "i2cLCD1602": "github:makecode-extensions/i2clcd1602#v1.5.0"
     },
     "files": [
         "main.ts",
